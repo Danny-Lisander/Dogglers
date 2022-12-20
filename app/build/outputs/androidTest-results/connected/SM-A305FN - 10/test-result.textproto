@@ -1,0 +1,327 @@
+# 2022-12-20T01:49:24.254Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 6
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "grid_list_button_is_displayed"
+    start_time {
+      seconds: 1671500948
+      nanos: 440000000
+    }
+    end_time {
+      seconds: 1671500951
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\logcat-com.example.dogglers.ButtonTests-grid_list_button_is_displayed.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "clicking_horizontal_list_button_displays_horizontal_list"
+    start_time {
+      seconds: 1671500951
+      nanos: 598000000
+    }
+    end_time {
+      seconds: 1671500953
+      nanos: 894000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\logcat-com.example.dogglers.ButtonTests-clicking_horizontal_list_button_displays_horizontal_list.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "clicking_grid_list_button_displays_grid_list"
+    start_time {
+      seconds: 1671500954
+      nanos: 454000000
+    }
+    end_time {
+      seconds: 1671500957
+      nanos: 43000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\logcat-com.example.dogglers.ButtonTests-clicking_grid_list_button_displays_grid_list.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "clicking_vertical_list_button_displays_vertical_list"
+    start_time {
+      seconds: 1671500957
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 1671500959
+      nanos: 688000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\logcat-com.example.dogglers.ButtonTests-clicking_vertical_list_button_displays_vertical_list.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "horizontal_list_button_is_displayed"
+    start_time {
+      seconds: 1671500960
+      nanos: 223000000
+    }
+    end_time {
+      seconds: 1671500961
+      nanos: 273000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\logcat-com.example.dogglers.ButtonTests-horizontal_list_button_is_displayed.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "vertical_list_button_is_displayed"
+    start_time {
+      seconds: 1671500961
+      nanos: 806000000
+    }
+    end_time {
+      seconds: 1671500963
+      nanos: 5000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\logcat-com.example.dogglers.ButtonTests-vertical_list_button_is_displayed.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\User\\AndroidStudioProjects\\Dogglers\\app\\build\\outputs\\androidTest-results\\connected\\SM-A305FN - 10\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
